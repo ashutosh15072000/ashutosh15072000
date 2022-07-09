@@ -19,10 +19,15 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=ashutosh15072000&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif", width="10px"/>
+  Hey:raised_hand_with_fingers_splayed:, I'm Ashutosh 
 </h1>
+
 </div>
+
+## :technologist:About Me:
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> from India.
+- :zap: In my free time, I solve problems on Kaggle and read tech articles from Medium.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Linkedin&logoColor=white)]('https://www.linkedin.com/in/ashutosh-singh-171202188/')
 
 
 <!---
