@@ -21,13 +21,15 @@
   <h1>
   Hey:raised_hand_with_fingers_splayed:, I'm Ashutosh 
 </h1>
-
 </div>
 
 ## :technologist:About Me:
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> from India.
+I'm an Data Scientist who wishes to solve problems in the world by mean of data <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> 
+
+- :telescope:I believe in learn-teach-learn
+- :seedling: I like data insights and am currently exploring Machine Learning
 - :zap: In my free time, I solve problems on Kaggle and read tech articles from Medium.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Linkedin&logoColor=white)]('https://www.linkedin.com/in/ashutosh-singh-171202188/')
+- :mailbox:Reach me at : [![Linkedin Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Linkedin&logoColor=white)]('https://www.linkedin.com/in/ashutosh-singh-171202188/') Or Gmail Ashutoshs019@gmail.com
 
 
 <!---
