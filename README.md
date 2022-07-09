@@ -49,8 +49,8 @@ I'm an Data Scientist who wishes to solve problems in the world by mean of data 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh15072000&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh15072000&theme=blood)](https://git.io/streak-stats)
 --
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh15072000&theme=github-dark-blue))](https://github.com/ashutosh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh15072000&theme=blood)](https://github.com/ashutosh15072000/github-readme-stats)
 
