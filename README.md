@@ -26,5 +26,29 @@ I'm an Data Scientist who wishes to solve problems in the world by mean of data 
 - :mailbox:Reach me at : [![Linkedin Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Linkedin&logoColor=white)]('https://www.linkedin.com/in/ashutosh-singh-171202188/') Or Gmail Ashutoshs019@gmail.com
 
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </div>
 
 
