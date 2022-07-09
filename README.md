@@ -15,7 +15,12 @@
   <h1>
   Hey:raised_hand_with_fingers_splayed:, I'm Ashutosh 
 </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+</div>
+
+
 
 ## :technologist:About Me:
 I'm an Data Scientist who wishes to solve problems in the world by mean of data <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> 
