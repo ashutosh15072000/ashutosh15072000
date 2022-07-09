@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ashutosh15072000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -32,8 +26,5 @@ I'm an Data Scientist who wishes to solve problems in the world by mean of data 
 - :mailbox:Reach me at : [![Linkedin Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Linkedin&logoColor=white)]('https://www.linkedin.com/in/ashutosh-singh-171202188/') Or Gmail Ashutoshs019@gmail.com
 
 
-<!---
-ashutosh15072000/ashutosh15072000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
