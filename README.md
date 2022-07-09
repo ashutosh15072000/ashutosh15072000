@@ -7,8 +7,8 @@
   <a href="https://github.com/ashutosh15072000">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.kaggle.com/ashutosh6639">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  <a href="https://ashutosh15072000.github.io/portfolio.github.io/#">
+    <img src="https://img.shields.io/badge/Portfolio-Green?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>    
 </div>
   <img src="https://komarev.com/ghpvc/?username=ashutosh15072000&style=flat-square&color=blue" alt=""/>
