@@ -36,6 +36,8 @@ I'm an Data Scientist who wishes to solve problems in the world by mean of data 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,10 +46,8 @@ I'm an Data Scientist who wishes to solve problems in the world by mean of data 
   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/heroku" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </div>
 
